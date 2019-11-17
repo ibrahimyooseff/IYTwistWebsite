@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/rolelfxrbfs7/public_html
+group: rolelfxrbfs7
+hascgi: 1
+homedir: /home/rolelfxrbfs7
+ip: 166.62.27.146
+ipv6: ~
+owner: gdresell
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@iytwist.com
+serveralias: mail.iytwist.com www.iytwist.com
+servername: iytwist.com
+ssl: 1
+usecanonicalname: 'Off'
+user: rolelfxrbfs7
+userdirprotect: ''
